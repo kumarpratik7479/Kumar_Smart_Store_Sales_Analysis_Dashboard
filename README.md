@@ -15,3 +15,6 @@ This dashboard aim is to get all the sales Forecast 📈 and delivery prediction
 3. Sales Forecasting.
 4. Create Table Using DAX Queries.
 5. Time Series Analysis.
+
+
+ Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
